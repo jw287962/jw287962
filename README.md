@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jw287962 (JASON)
-- - 📫 How to reach me: jason.wongdevwork@gmail.com 
+- 📫 How to reach me: jason.wongdevwork@gmail.com 
 - 👀 I’m interested in playing sports, games, and learning. I also find myself reading manga/webnovels, and occasionally watching some movies/shows...
 - 🌱 I’m currently learning about full stack development through hands on projects with THEODINPROJECT...
 <!-- - 💞️ I’m looking to collaborate on ... -->
