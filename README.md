@@ -2,7 +2,7 @@
 - portfolio: https://jw287962.github.io/portfolio_project/
 - 📫 How to reach me: jason.wongdevwork@gmail.com 
 - 👀 I’m interested in playing sports, games, and learning. I also find myself reading manga/webnovels, and occasionally watching some movies/shows...
-- 🌱 I’m currently a web developer and learned through hands on projects with THEODINPROJECT...
+- 🌱 I’m a web developer..
 - I would love to learn more and continue to solve new problems.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
