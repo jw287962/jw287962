@@ -1,22 +1,20 @@
 <div id="header" align="center">
     <h2>👋 Hi, I’m JASON</h2> 
    <h3><em>I’m a software developer</em></h3> 
-<p> <a href="https://jw287962.github.io/portfolio_project/">My Portfolio</a> </p>
+<h3> <a href="https://jw287962.github.io/portfolio_project/">My Portfolio</a></h3>
 
 
-</div>
+
 <p>Hobbies: </p>
 <em> I’m interested in playing sports, games, and learning. I also find myself reading manga/webnovels.</em>
   </div>
 
-<h1>Email: jason.wongdevwork@gmail.com  </h1> 
-- 
-- 
-- I would love to learn more and continue to solve new problems! 
+<h5>Email: jason.wongdevwork@gmail.com  </h5> 
+
+ I would love to learn more and continue to solve new problems! 
 
 
 </div>
-
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jw287962)
