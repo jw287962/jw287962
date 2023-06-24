@@ -1,13 +1,25 @@
-- 👋 Hi, I’m @jw287962 (JASON)
-- portfolio: https://jw287962.github.io/portfolio_project/
-- 📫 How to reach me: jason.wongdevwork@gmail.com 
-- 👀 I’m interested in playing sports, games, and learning. I also find myself reading manga/webnovels, and occasionally watching some movies/shows...
-- 🌱 I’m a web developer..
-- I would love to learn more and continue to solve new problems.
-<!-- - 💞️ I’m looking to collaborate on ... -->
+<div id="header" align="center">
+    <h1>👋 Hi, I’m JASON</h1> 
+   <h1><em>I’m a software developer</em></h1> 
+<p> <a src="https://jw287962.github.io/portfolio_project/">Check out my skills and Portfolio</a> </p>
 
 
-<!---
-jw287962/jw287962 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+<p>Hobbies: </p>
+<em> I’m interested in playing sports, games, and learning. I also find myself reading manga/webnovels.</em>
+  </div>
+
+<h1>Email: jason.wongdevwork@gmail.com  </h1> 
+- 
+- 
+- I would love to learn more and continue to solve new problems! 
+
+
+</div>
+
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jw287962)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jw287962&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
