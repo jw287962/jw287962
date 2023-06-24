@@ -9,12 +9,12 @@
 <em> I’m interested in playing sports, games, and learning. I also find myself reading manga/webnovels.</em>
 
 
-<h5>Email: jason.wongdevwork@gmail.com  </h5> 
+
 
 <p>I would love to learn more and continue to solve new problems! </p>
 
 
-
+<h5>Email: jason.wongdevwork@gmail.com  </h5> 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jw287962)
 
