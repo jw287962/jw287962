@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <h2>👋 Hi, I’m JASON</h2> 
    <h3><em>I’m a software developer</em></h3> 
-<p> <a href="https://jw287962.github.io/portfolio_project/">Check out my skills and Portfolio</a> </p>
+<p> <a href="https://jw287962.github.io/portfolio_project/">My Portfolio</a> </p>
 
 
 </div>
