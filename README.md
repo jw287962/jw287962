@@ -7,11 +7,11 @@
 
 <p>Hobbies: </p>
 <em> I’m interested in playing sports, games, and learning. I also find myself reading manga/webnovels.</em>
-  </div>
+
 
 <h5>Email: jason.wongdevwork@gmail.com  </h5> 
 
- I would love to learn more and continue to solve new problems! 
+<p>I would love to learn more and continue to solve new problems! </p>
 
 
 </div>
