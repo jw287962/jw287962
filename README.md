@@ -6,7 +6,7 @@
     
 
 
- <em>Start: November 2022</em>
+ <h4>Start: November 2022</h4>
 <em> I am a quick learner and dedicated to the art. I am a Self Taught Software Developer using free online resources since
     November 2022 while working at Juicy Seafood 60-80 hours a week. </em>
     
