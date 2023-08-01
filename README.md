@@ -3,8 +3,13 @@
    <h3><em>I’m a software developer</em></h3> 
 <h3> <a href="https://jw287962.github.io/portfolio_project/">My Portfolio</a></h3>
 
+    
 
 
+ <em>Start: November 2022</em>
+<em> I am a quick learner and dedicated to the art. I am a Self Taught Software Developer using free online resources since
+    November 2022 while working at Juicy Seafood 60-80 hours a week. </em>
+    
 <p>Hobbies: </p>
 <em> I’m interested in playing sports, games, and learning. I also find myself reading manga/webnovels.</em>
 
