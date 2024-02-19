@@ -3,7 +3,7 @@
    <h3><em>I’m a software developer</em></h3> 
 <h3> <a href="https://jw287962.github.io/portfolio_project/">My Portfolio</a></h3>
 
-    
+    DISCORD: jaxeun
 
 
  <h4>Start: November 2022</h4>
